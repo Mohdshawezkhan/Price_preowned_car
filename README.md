@@ -19,3 +19,6 @@ Obtain a dataset containing information about pre-owned cars, including features
 
 Run the Jupyter Notebook:
 Execute the Jupyter Notebook Cars_Price_predition.ipynb to go through the entire project, including data exploration, preprocessing, model training, and evaluation.
+
+Modify the car_data.csv file with your dataset or use the provided example dataset. Run the Jupyter Notebook to execute the entire project and obtain insights into predicting the prices of pre-owned cars.
+
